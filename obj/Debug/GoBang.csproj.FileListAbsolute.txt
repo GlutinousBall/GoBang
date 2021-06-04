@@ -1,0 +1,14 @@
+C:\Code\c#_project\GoBang\bin\Debug\GoBang.exe.config
+C:\Code\c#_project\GoBang\bin\Debug\GoBang.exe
+C:\Code\c#_project\GoBang\bin\Debug\GoBang.pdb
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.csprojAssemblyReference.cache
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.Form1.resources
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.csproj.GenerateResource.cache
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.csproj.CoreCompileInputs.cache
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.exe
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.pdb
+C:\Code\c#_project\GoBang\bin\Debug\SunnyUI.Common.dll
+C:\Code\c#_project\GoBang\bin\Debug\SunnyUI.dll
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.csproj.CopyComplete
+C:\Code\c#_project\GoBang\obj\Debug\GoBang.CoverForm.resources
